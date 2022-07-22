@@ -4969,6 +4969,11 @@
     "prop-types" "^15.5.10"
     "qrcode" "1.2.0"
 
+"react-native-share@^1.2.1":
+  "integrity" "sha512-V9q1FM+LuYJ65qN3k6BLWs17mIbJCzGyMOhF3rb4MIQXdJfCUbtkDX9aaV86PzcsL1EudCA53HVTJBmWPDed0Q=="
+  "resolved" "https://registry.npmmirror.com/react-native-share/-/react-native-share-1.2.1.tgz"
+  "version" "1.2.1"
+
 "react-native-svg@^9.13.6", "react-native-svg@^9.6.4":
   "integrity" "sha512-vjjuJhEhQCwWjqsgWyGy6/C/LIBM2REDxB40FU1PMhi8T3zQUwUHnA6M15pJKlQG8vaZyA+QnLyIVhjtujRgig=="
   "resolved" "https://registry.npmmirror.com/react-native-svg/-/react-native-svg-9.13.6.tgz"

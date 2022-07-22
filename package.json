@@ -10,6 +10,7 @@
     "react": "16.8.3",
     "react-native": "0.59.8",
     "react-native-qrcode-svg": "^6.0.0",
+    "react-native-share": "^1.2.1",
     "react-native-svg": "^9.13.6"
   },
   "devDependencies": {
