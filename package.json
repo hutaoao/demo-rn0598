@@ -1,0 +1,24 @@
+{
+  "name": "DemoRn0598",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/runtime": "^7.18.9",
+    "babel-jest": "^28.1.3",
+    "jest": "^28.1.3",
+    "metro-react-native-babel-preset": "^0.71.3",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
